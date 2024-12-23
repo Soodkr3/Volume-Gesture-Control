@@ -79,23 +79,6 @@ The application window will open, displaying the video feed with hand gesture de
 
 Press the 'q' key to exit the application and release all resources gracefully.
 
-Project Structure
-
-
-Volume-Gesture-Control/
-├── VolumeGesture.py
-├── HandTrackingModule.py
-├── requirements.txt
-├── README.md
-└── assets/
-    ├── volume_control_interface.png
-    └── hand_gesture_detection.png
-
-    
-VolumeGesture.py: The main script that captures video, processes hand gestures, and adjusts the system volume.
-HandTrackingModule.py: A module that encapsulates the hand detection and processing logic using Mediapipe.
-requirements.txt: Lists all the Python dependencies required to run the application.
-Assets: Contains images used in the README for visual representation.
 ## Contributing
 Contributions are welcome! If you'd like to enhance the project or fix any issues just fork the repo.
 
