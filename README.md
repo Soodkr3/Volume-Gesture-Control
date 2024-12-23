@@ -1,12 +1,12 @@
 # Volume Gesture Control Application
 
 ## Overview
-The **Volume Gesture Control Application** is a real-time system that allows users to adjust their computer's audio volume using simple hand gestures captured via a webcam. By leveraging computer vision and machine learning techniques, this application detects hand landmarks and interprets the distance between the thumb and index finger to control the system's volume seamlessly. Whether you're watching a movie, listening to music, or engaged in a video call, this tool offers an intuitive and hands-free way to manage your audio levels.
+The **Volume Gesture Control Application** is a real-time system that allows users to adjust their computer's audio volume using simple hand gestures like the distance between their index finger and thumb captured via a webcam. By leveraging computer vision and machine learning techniques, this application detects hand landmarks and interprets the distance between the thumb and index finger to control the system's volume seamlessly. Whether you're watching a movie, listening to music, or engaged in a video call, this tool offers an intuitive and hands-free way to manage your audio levels.
 
-![Volume Control Interface](https://github.com/user-attachments/assets/volume_control_interface.png)
+![image](https://github.com/user-attachments/assets/406b34ee-ce1f-4066-b8d7-4c60e7a848d5)
 *Figure 1: Real-Time Volume Control Interface*
 
-![Hand Gesture Detection](https://github.com/user-attachments/assets/hand_gesture_detection.png)
+![image](https://github.com/user-attachments/assets/0f70a660-849e-4949-a2fd-e7ed8ca36c1e)
 *Figure 2: Hand Gesture Detection and Volume Adjustment*
 
 ## Key Features
